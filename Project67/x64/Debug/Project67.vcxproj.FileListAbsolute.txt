@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\c++\Project67\x64\Debug\Project67.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\c++\Project67\x64\Debug\Project67.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c++\Project67\x64\Debug\Project67.MyForm.resources
+C:\Users\User\Desktop\c++\Project67\x64\Debug\Project67.SPAVKA.resources
+C:\Users\User\Desktop\c++\Project67\x64\Debug\Project67.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\c++\Project67\x64\Debug\Project67.exe

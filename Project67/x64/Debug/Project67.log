@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\User\Desktop\c++\Project67\MyForm.cpp(91,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\c++\Project67\MyForm.cpp(356,24): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\c++\Project67\MyForm.cpp(447,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project67.vcxproj -> C:\Users\User\Desktop\c++\Project67\x64\Debug\Project67.exe
